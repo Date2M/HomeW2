@@ -25,8 +25,18 @@
 # else:
 #     print("Incorrect input!")
 
-
-
+# конвертер метрів
+# meters = int(input("Input number: "))
+# user_input = int(input("Choice:\n1. Miles\n2. Yards\n3. Inches\nYour choice: "))
+#
+# if user_input == 1:
+#     result, unit = meters / 1609.34, "miles"
+# elif user_input == 2:
+#     result, unit = meters * 39.37, "yards"
+# elif user_input == 3:
+#     result, unit = meters * 1.0936, "inches"
+# else:
+#     print("Incorrect number.")
 
 
 
